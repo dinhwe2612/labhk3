@@ -10,6 +10,6 @@ int main(int argc, char* argv[]) {
   sf::Window screen(sf::VideoMode(800, 600), "myproject");
   bool running = true;
   while (running) {
-    screen.Display();
+    screen.display();
   }
 }
