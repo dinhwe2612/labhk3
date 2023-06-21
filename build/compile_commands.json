@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/labhk3/build",
+  "command": "\"C:/Users/MSI 203VN/.vscode/MinGW/bin/g++.exe\"  @CMakeFiles/myproject.dir/includes_CXX.rsp -g -o CMakeFiles/myproject.dir/main.cpp.obj -c C:/labhk3/main.cpp",
+  "file": "C:/labhk3/main.cpp"
+}
+]

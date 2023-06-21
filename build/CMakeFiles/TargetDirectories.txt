@@ -1,0 +1,17 @@
+C:/labhk3/build/CMakeFiles/myproject.dir
+C:/labhk3/build/CMakeFiles/package.dir
+C:/labhk3/build/CMakeFiles/package_source.dir
+C:/labhk3/build/CMakeFiles/edit_cache.dir
+C:/labhk3/build/CMakeFiles/rebuild_cache.dir
+C:/labhk3/build/CMakeFiles/list_install_components.dir
+C:/labhk3/build/CMakeFiles/install.dir
+C:/labhk3/build/CMakeFiles/install/local.dir
+C:/labhk3/build/CMakeFiles/install/strip.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/package.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/package_source.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/edit_cache.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/rebuild_cache.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/list_install_components.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/install.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/install/local.dir
+C:/labhk3/build/SFML-2.5.1/CMakeFiles/install/strip.dir

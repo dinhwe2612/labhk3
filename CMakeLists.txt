@@ -15,25 +15,25 @@ set(EXECUTABLE_NAME "myproject")
 add_executable(${EXECUTABLE_NAME} main.cpp)
 include_directories(Function)
 add_subdirectory(SFML-2.5.1)
-add_subdirectory(Function)
-add_subdirectory(UI)
+# add_subdirectory(Function)
+# add_subdirectory(UI)
 
 target_include_directories(${PROJECT_NAME} 
     PUBLIC SFML-2.5.1
-    PUBLIC UI
-    PUBLIC Function
+    # PUBLIC UI
+    # PUBLIC Function
 )
 
 link_directories(${PROJECT_NAME} 
     PRIVATE SFML-2.5.1/include/SFML
-    PRIVATE Function
-    PRIVATE UI
+    # PRIVATE Function
+    # PRIVATE UI
 )
 
 target_link_libraries(${PROJECT_NAME} 
     SFML_LIBRARIES
-    Func
-    UI
+    # Func
+    # UI
 )
 
 # Detect and add SFML
