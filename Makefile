@@ -1,8 +1,8 @@
 # This is makefile for SFML C++
-$	make
-path	=	D:/cs163/SFML-2.5.1-windows-vc15-64-bit/SFML-2.5.1
-INCLUDE	=	"$(path)/include"
-LIBRARY = "$(path)/lib"
+
+path = D:/cs163/SFML-2.5.1-windows-vc15-64-bit/SFML-2.5.1
+INCLUDE = "$(path)\include"
+LIBRARY = "$(path)\lib"
 CXXFLAGS =
 SFMLFLAGS =
 SOURCE = main
